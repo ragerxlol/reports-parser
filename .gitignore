@@ -1,3 +1,7 @@
+# Repo specific
+reports/*
+!/reports/users.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
